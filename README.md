@@ -53,15 +53,6 @@ python train_model.py
 - Flask
 - Pandas
 - Numpy
-
----
-
-## 🌐 Live Link (Optional)
-
-> Add your live deployment link here if you upload it online (like on Render or Replit)
-
----
-
 ## 📂 Folder Structure
 
 ```
