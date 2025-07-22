@@ -46,15 +46,6 @@ Run the training script to generate the model file:
 ```bash
 python train_model.py
 ```
-
----
-
-## 🧪 Example UI
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 🛠️ Built With
 
 - Python 3.10
